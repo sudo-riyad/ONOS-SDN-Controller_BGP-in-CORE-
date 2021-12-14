@@ -1,10 +1,10 @@
 # ONOS Controller in CORE
 
-## This is the implemetation and documentation for implenemting ONOS SDN controller in CORE emulator  for Master project
+## This is the implemetation and documentation for implenemting BGP network over SDN data plane with ONOS SDN controller in CORE emulator  for Master project
 
 ### The followings is the architectural overview of SDN network implementation
 
-Finally, another experiment is taken into account for realizing the attachment of BGP network over SDN based
+This experiment is taken into account for realizing the attachment of BGP network over SDN based
 data plane. Network infrastructure for this experiment is described in Figure. There are five autonomous
 system interconnected to each other over BGP protocol and SDN technique. The entire data plane of the SDN
 network is considered as a single internal autonomous system, which is given as AS number of 100. Rest of the
