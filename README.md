@@ -28,8 +28,8 @@ addresses are indicated.
 The internal BGP speakers take advantage of eBGP peering to share BGP route information with the border
 routers of the neighboring external networks, and iBGP peering to propagate that information to ONOS application instances.
 
-For the Implementation of the network check the documentation: 
+For the Implementation of the network check the documentation: [Project Documentation](https://github.com/sudo-riyad/ONOS-SDN-Controller_BGP-in-CORE-/blob/042e051c7c38ef6c3e93a98cb1a45815bc38dd18/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
 
-[a link](https://github.com/sudo-riyad/ONOS-SDN-Controller_BGP-in-CORE-/blob/042e051c7c38ef6c3e93a98cb1a45815bc38dd18/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
+
 
 
